@@ -1,0 +1,23 @@
+{
+  "name": "gulp-gather-template",
+  "version": "0.0.1",
+  "description": "gather template into a .js file",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://xxxx.xxx"
+  },
+  "keywords": [
+    "template",
+    "gulp-plugin"
+  ],
+  "author": "magicdawn",
+  "license": "MIT",
+  "dependencies": {
+    "gulp-util": "^3.0.1",
+    "through": "^2.3.6"
+  }
+}
