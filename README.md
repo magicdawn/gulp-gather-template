@@ -1,5 +1,7 @@
 # gulp-gather-template
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/magicdawn/gulp-gather-template.svg)](https://greenkeeper.io/)
+
 gather ractive template into a .js file
 
 ## Install
